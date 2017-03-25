@@ -92,5 +92,6 @@ or
 1. 序号  shift+command+o  
 * 无序的list shift+command+U  
 > 区块 shift+command+B  
-[插入链接]() shift+command+K  
-![插入图片]() shift+command+I
+
+[插入链接]()  shift+command+K  
+![插入图片]()  shift+command+I
